@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m currently available for a collaboration
 
 <p align="center">📫 How to reach me : 
-<a href="https://dz.linkedin.com/in/amine-bouhamri-9b0b9b1b2" target="_blank" style="display: inline-block;">
+<a href="https://dz.linkedin.com/in/amine-bouhamri-9b0b9b1b2" t="_blank" style="display: inline-block;">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=linkedin&fill=inheret" /> </a>
 </p>
 
