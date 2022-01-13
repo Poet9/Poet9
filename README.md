@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">📫 How to reach me : 
 <a href="https://dz.linkedin.com/in/amine-bouhamri-9b0b9b1b2" style="display: inline-block;" >
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=linkedin&fill=blue" /> </a>
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=linkedin&fill=inheret" /> </a>
 </p>
 
