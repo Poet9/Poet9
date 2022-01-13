@@ -5,7 +5,9 @@
 
 <p align="center">📫 How to reach me : 
 <a href="https://dz.linkedin.com/in/amine-bouhamri-9b0b9b1b2" style="display: inline-block;" >
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /> </a>
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=linkedin&fill=blue" /> </a>
+<a href="baminoo19@gmail.com" style="display: inline-block;" >
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=gmail&fill=red" /> </a>  
 </p>
 <!---
 Poet9/Poet9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
