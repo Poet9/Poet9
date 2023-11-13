@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m Amine
 - 👀 I’m interested in web development specially backend engineering
-- 🌱 I’m currently working with MERN stack
+- 🌱 I’m currently working with Nextjs and typescript and tailwind
 - 🌱 I'm learning state management libraries mainly redux and recoil
 - 💞️ I’m currently available for a collaboration
 
